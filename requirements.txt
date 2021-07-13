@@ -1,0 +1,7 @@
+telegram
+decimal
+asyncio
+aiohttp 
+aiofiles
+requests
+pillow
