@@ -1,4 +1,6 @@
 telegram
+os 
+dotenv 
 datetime 
 lxml 
 locale 
