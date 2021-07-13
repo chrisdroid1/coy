@@ -2,6 +2,14 @@
   Tron Bot
 </h1>
 
+## 🚀 Deployment
+
+### 💜 Heroku
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Chrisdroid1/i)
+
+Get py
+
 ## Requirements
 
 * Python 3
