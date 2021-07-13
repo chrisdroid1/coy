@@ -1,5 +1,4 @@
 telegram
-os 
 dotenv 
 datetime 
 lxml 
